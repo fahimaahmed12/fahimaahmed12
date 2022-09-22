@@ -1,4 +1,4 @@
-- #sobre mim
+- # sobre mim
 - 👋 ola, meu nome e @fahimaahmed12
 - 👍meu email de contato e estudante.alura@gamil.com.br
 - 👀 eu estou interessado em aprender a proramar novo linguagena.
